@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL345
+D Accelerometer
+$ENDCMP
+#
+#End Doc Library

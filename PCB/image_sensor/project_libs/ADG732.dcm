@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADB732
+D IC MULTPLEXER 32x1 48TQFP
+K multiplexer mux 32x1
+$ENDCMP
+#
+$CMP ADG732
+D IC MULTPLEXER 32x1 48TQFP
+K multiplexer mux 32x1
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+(module ALS-PT19 (layer F.Cu) (tedit 5CFA5988)
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ALS-PT19 (at 0 -2) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -1.2 -0.4) (end 1.2 -0.4) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.2 -0.4) (end 1.2 0.4) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.2 0.4) (end -1.2 0.4) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.2 0.4) (end -1.2 -0.4) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0.3 -0.4) (end 0.3 0.4) (layer F.SilkS) (width 0.15))
+  (pad 1 smd rect (at -0.75 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0.75 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask))
+)

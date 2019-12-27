@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pulse_oximeter-rescue)(type Legacy)(uri ${KIPRJMOD}/pulse_oximeter-rescue.lib)(options "")(descr ""))
+  (lib (name digiobscura_mcu-rescue)(type Legacy)(uri ${KIPRJMOD}/digiobscura_mcu-rescue.lib)(options "")(descr ""))
+)

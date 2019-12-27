@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ADG732)(type Legacy)(uri ${KIPRJMOD}/project_libs/ADG732.lib)(options "")(descr ""))
+  (lib (name digiobscura-rescue)(type Legacy)(uri ${KIPRJMOD}/digiobscura-rescue.lib)(options "")(descr ""))
+)
